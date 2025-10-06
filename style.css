@@ -5,13 +5,13 @@ body{
    background-color:#00e1ff;
 }
 
-#wrapper h2{
+#wrapper h1{
     display:flex;
     justify-content: center;
     
 }
 
-h2{
+h1{
     color:#ec1047;
     letter-spacing: 1px;
 }
